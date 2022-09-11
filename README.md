@@ -15,3 +15,6 @@ Gather the data for analysis.
 Identify the right tools to use, and develop a data strategy.
 Case studies are also helpful in customizing a potential solution.
 Once these conditions exist and available data is extracted, you can develop a machine learning model. 
+
+# What makes someone a data scientist?
+I define a data scientist as someone who finds solutions to problems by analyzing Big or small data using appropriate tools and then tells stories to communicate her findings to the relevant stakeholders. I do not use the data size as a restrictive clause. A data below a certain arbitrary threshold does not make one less of a data scientist. Nor is my definition of a data scientist restricted to particular analytic tools, such as machine learning. As long as one has a curious mind, fluency in analytics, and the ability to communicate the findings, I consider the person a data scientist.
