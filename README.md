@@ -18,3 +18,14 @@ Once these conditions exist and available data is extracted, you can develop a m
 
 # What makes someone a data scientist?
 I define a data scientist as someone who finds solutions to problems by analyzing Big or small data using appropriate tools and then tells stories to communicate her findings to the relevant stakeholders. I do not use the data size as a restrictive clause. A data below a certain arbitrary threshold does not make one less of a data scientist. Nor is my definition of a data scientist restricted to particular analytic tools, such as machine learning. As long as one has a curious mind, fluency in analytics, and the ability to communicate the findings, I consider the person a data scientist.
+
+# Big Data
+ “Big Data refers to the dynamic, large and
+disparate volumes of data being created by people, tools, and machines.
+It requires new, innovative, and scalable technology to collect, host, and analytically
+process the vast amount of data gathered in order to derive real-time business insights
+that relate to consumers, risk, profit, performance, productivity management, and enhanced shareholder
+value.” 
+
+velocity, volume, variety, veracity, and value.
+These are the V's of Big Data.
